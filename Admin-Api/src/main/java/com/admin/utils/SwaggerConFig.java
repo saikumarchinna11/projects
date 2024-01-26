@@ -20,4 +20,6 @@ public class SwaggerConFig {
 	         .apis(RequestHandlerSelectors.basePackage("com.admin.RestController")).paths(PathSelectors.any()).build();
 	   }
 
+String s="saikumar";
+
 }
