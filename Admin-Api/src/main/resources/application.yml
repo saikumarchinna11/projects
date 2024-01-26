@@ -1,0 +1,28 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/miniproject
+    username: root
+    password: root
+    
+      
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+  mail:
+    host: smtp.gmail.com
+    password: ijmv csmk nvgd eaf
+    port: 587
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+    username: saichinna.kumar243gmail.com
+  
+  
+
+ 
+    
