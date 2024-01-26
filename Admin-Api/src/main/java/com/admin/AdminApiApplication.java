@@ -17,7 +17,7 @@ public class AdminApiApplication {
 		SpringApplication.run(AdminApiApplication.class, args);
 	}
 	
-	
+	String s="saikumar";
 	
 
 
